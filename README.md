@@ -15,4 +15,4 @@
 <img src='https://github.com/yazhcodes/Amazon_Vine_Analysis/blob/main/Resources/Images/Vine%20Analysis%20Table.png'></img>
 
 ## Summary: 
-   The results of this analysis clearly indicates that there is **absolutely no bias towards favorable reviews** by the members of the Amazon Vine Program. However further analysis could be conducted on other Product categories and also by broadening the '_favorable reviews_' filter from 5-star to '_4 and 5 stars_'.
+   The results of this analysis clearly indicates that there is **absolutely no bias towards favorable reviews** by the members of the Amazon Vine Program. However further analysis could be conducted on other Product categories and also by broadening the '_favorable reviews_' criteria from 5-star to '_4 and 5 stars_'.
