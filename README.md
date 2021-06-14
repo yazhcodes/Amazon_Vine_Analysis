@@ -11,7 +11,7 @@
 * Out of 38829 non-Vine reviews, 18246 were 5-star reviews.
 * The percentage of Vine reviews that were 5-stars was 46.99%.
 * The percentage of non-Vine reviews that were 5-stars was also (_surprisingly_) 46.99% !
-* 
+
 <img src='https://github.com/yazhcodes/Amazon_Vine_Analysis/blob/main/Resources/Images/Vine%20Analysis%20Table.png'></img>
 
 ## Summary: 
